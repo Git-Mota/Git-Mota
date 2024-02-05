@@ -17,7 +17,8 @@
 ###
 ---
 ## Um pouco sobre mim
-- 🔭 Estou disponível para propostas ✨
+- 🔭 Procurando por oportunidades nas áreas de Análise, desenvolvimento de sistemas, gestão de qualidade e quaisquer outras vagas voltadas para Tecnologia da Informação.
+- 🎓Formado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estudando serviços de computação em nuvem ☁👨‍💻
 - 📫 Contate-me no email: evaldojr.contato@gmail.com
 
