@@ -65,14 +65,28 @@
 
 ###
 ---
-## Portfolio:
-- [Sistema para registro de Ponto e conults para funconários - HTML | C# | CSS | JAVASCRIPT | SQL](https://github.com/Git-Mota/Folha_Pagamento_Web)
+## Portfolio
+- [Sistema para registro de Ponto e consultas para funcionários - HTML | C# | CSS | JAVASCRIPT | SQL](https://github.com/Git-Mota/Folha_Pagamento_Web)
+
+<div align="center">
+  <img src="https://github.com/Git-Mota/Git-Mota/assets/143835833/e33d5502-065e-47fe-85a3-6000b3909ea6"  />
+</div>
+
+
 ---
 
 ## Contribuições
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Git-Mota&theme=radical&border_radius=4.7&locale=pt_BR&card_width=498)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Mota&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-Mota&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Git-Mota&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Git-Mota&locale=pt-br&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div>
+
+###
+
+---
+
 
 
 
