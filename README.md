@@ -65,9 +65,14 @@
 
 ###
 ---
+## Portfolio:
+- [Sistema para registro de Ponto e conults para funconários - HTML | C# | CSS | JAVASCRIPT | SQL](https://github.com/Git-Mota/Folha_Pagamento_Web)
+---
+
 ## Contribuições
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Git-Mota&theme=radical&border_radius=4.7&locale=pt_BR&card_width=498)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Mota&layout=compact)
 
 
 
