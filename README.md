@@ -72,7 +72,7 @@
 
 ###
 ---
-## Portfolio
+## Portfólio
 - [Sistema para registro de Ponto e consultas para funcionários - HTML | C# | CSS | JAVASCRIPT | SQL](https://github.com/Git-Mota/Folha_Pagamento_Web)
 - [Sistema para registro e consulta de funcionário,ponto,férias,demonstrativo financeiro e folha de pagamento - C# | SQL](https://github.com/Git-Mota/Folha_de_pagamento_Desktop)
 
