@@ -4,16 +4,6 @@
 <div align="center">
   <img height="150" src="https://github.com/Git-Mota/Git-Mota/assets/143835833/3f0d547f-ba6a-42fe-9d60-04be7365a59c"  />
 </div>
-
-<div align="center">
-  <a href="www.linkedin.com/in/ evaldo-mota-junior" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="evaldojr.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
 ###
 ---
 ## Um pouco sobre mim
