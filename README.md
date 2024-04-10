@@ -31,23 +31,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  
+<br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,maven,py,html,css,aws,mysql,&perline=5)](https://skillicons.dev)
+  	
 </div>
 
 ###
@@ -66,11 +54,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
 </div>
 
+<br>
+
 ###
 ---
 ## Portfólio
 - [Sistema para registro de Ponto e consultas para funcionários - HTML | C# | CSS | JAVASCRIPT | SQL](https://github.com/Git-Mota/Folha_Pagamento_Web)
 <!-- - [Sistema para registro e consulta de funcionário,ponto,férias,demonstrativo financeiro e folha de pagamento - C# | SQL](https://github.com/Git-Mota/Folha_de_pagamento_Desktop) || manutenção -->
+- [Sistema para pesquisa de Tabela Fipe e dados do veículo - JAVA | SPRING BOOT | MAVEN | API ](https://github.com/Git-Mota/consultorFipe)
 
 <div align="center">
   <img src="https://github.com/Git-Mota/Git-Mota/assets/143835833/e33d5502-065e-47fe-85a3-6000b3909ea6"  />
