@@ -62,6 +62,7 @@
 - [Sistema para registro de Ponto e consultas para funcionários - HTML | C# | CSS | JAVASCRIPT | SQL](https://github.com/Git-Mota/Folha_Pagamento_Web)
 <!-- - [Sistema para registro e consulta de funcionário,ponto,férias,demonstrativo financeiro e folha de pagamento - C# | SQL](https://github.com/Git-Mota/Folha_de_pagamento_Desktop) || manutenção -->
 - [Sistema para pesquisa de Tabela Fipe e dados do veículo - JAVA | SPRING BOOT | MAVEN | API ](https://github.com/Git-Mota/consultorFipe)
+- [Sistema para pesquisa de Musicas e dados de artistas - JAVA | SPRING BOOT | MAVEN | HIBERNATE | POSTGRESLQ | API ](https://github.com/Git-Mota/ConsultorMusicas)
 
 <div align="center">
   <img src="https://github.com/Git-Mota/Git-Mota/assets/143835833/e33d5502-065e-47fe-85a3-6000b3909ea6"  />
