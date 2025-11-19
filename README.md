@@ -21,8 +21,6 @@
   <summary>👨‍💻 Saiba um pouco mais...</summary>
 
   - 💬 Tenho 23 anos, moro em São Paulo-SP. Tenho experiência com C#, SQL, HTML e Análise de dados.
-  - 👔 Trabalhei por 2 anos na LATAM Airlines no setor de planejamento, o que me ajudou a desenvolver diversas habilidades e entender como portar-se perante um cenário corporativo.
-  - 💂‍♂️ Trabalhei por 5 anos no Exército Brasileiro, sendo promovido por mérito de soldado à sargento no respectivo período. A experiência militar aprimorou minha liderança, capacidade de resolução de problemas, gestão de crise, gestão de equipe e coordenação de atividades administrativas e operacionais. Essas habilidades não apenas agregaram à minha abordagem profissional, mas também proporcionam uma perspectiva única e uma mentalidade resiliente diante dos desafios e perante à rotina militar.
 </details>
 
 ## 🔥 Principais Habilidades
