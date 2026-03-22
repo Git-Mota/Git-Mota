@@ -14,8 +14,8 @@
 
 ## 👨‍🚀 Sobre mim
 
+- 🏢 Sou Engenheiro de Dados, com foco em governança de dados e desenvolvimento de pipelines em ambientes Databricks.  
 - 🏢 Atuação em **PwC Brasil**, com experiência real em **BI, automações, ETL, APIs e processamento de dados em larga escala**.
-- 🏢 Sou Engenheiro de Dados, com foco em governança de dados e desenvolvimento de pipelines em ambientes Databricks..  
 - 🎖 Experiência como **3º Sargento de Intendência no Exército Brasileiro**, com forte disciplina, liderança e trabalho sob pressão.  
 - ⚙️ Forte experiência com **Databricks, Apache Spark, Kafka, Kinesis, Docker, APIs e Streaming de Dados**.
 - 🧠 Atualmente cursando **MBA em Engenharia de Dados – FIAP**.  
