@@ -14,16 +14,17 @@
 
 ## 👨‍🚀 Sobre mim
 
-- 🧠 Atualmente cursando **MBA em Engenharia de Dados – FIAP**.  
-- 🏢 Atuação prévia em **PwC Brasil**, com experiência real em **BI, automações, ETL, APIs e processamento de dados em larga escala**.  
+- 🏢 Atuação em **PwC Brasil**, com experiência real em **BI, automações, ETL, APIs e processamento de dados em larga escala**.
+- 🏢 Sou Engenheiro de Dados, com foco em governança de dados e desenvolvimento de pipelines em ambientes Databricks..  
 - 🎖 Experiência como **3º Sargento de Intendência no Exército Brasileiro**, com forte disciplina, liderança e trabalho sob pressão.  
-- ⚙️ Forte experiência com **Databricks, Apache Spark, Kafka, Kinesis, Docker, APIs e Streaming de Dados**.  
+- ⚙️ Forte experiência com **Databricks, Apache Spark, Kafka, Kinesis, Docker, APIs e Streaming de Dados**.
+- 🧠 Atualmente cursando **MBA em Engenharia de Dados – FIAP**.  
 - 📫 Contato: **evaldojr.contato@gmail.com**
 
 <details>
   <summary>👤 Mais detalhes</summary>
 
-  - Tenho 25 anos e moro em São Paulo – SP.  
+  - Tenho 25 anos e sou São Paulo – SP.  
   - Experiência em desenvolvimento backend (*Java, Spring Boot, Python, C#, Node*).  
   - Atuo em projetos envolvendo arquitetura de dados, integração com APIs, sistemas distribuídos e automações.  
   - Desenvolvo projetos pessoais como **sistemas de streaming em tempo real, chatbot de vendas com Evolution API + Redis, Spark e Kafka**.
